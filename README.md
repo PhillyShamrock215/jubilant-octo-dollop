@@ -1,1 +1,1 @@
-# jubilant-octo-dollop
+# jubilant-octo-dollopgem push --key github --host https://rubygems.pkg.github.com/PhillyShamrock215 jubilant-octo-dollop-1.0.0.gemgem build jubilant-octo-dollop.gemspececho ":github: Bearer GH_TOKEN" >> ~/.gem/credentials
